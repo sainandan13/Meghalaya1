@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "root",
-    "database": "Meghalaya",
+    "username": "adminuser",
+    "password": "Sirobilt@321",
+    "database": "hospital_management",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
